@@ -1,12 +1,15 @@
 # COMP90041_Tutorials
 This is the repository for the COMP90041 tutorials materials by Yuhao Song
+You could star, fork or clone this repository
+The material will be updated during the weekend after the tutorials
 
-I will upload the material during the weekend at the same week of tutorial
-
-You could find the following:
+Structures:
   * Tutorial handout
   * Tutorial slides
   * Exercise written by me (not official answer from the Uni)
   * Demo code for important points
  
-You could star, fork or clone this repository
+Topics:
+ * Lab1 Server Introduction
+ * Lab2 Console I/O
+ * Lab3 Flow of Control

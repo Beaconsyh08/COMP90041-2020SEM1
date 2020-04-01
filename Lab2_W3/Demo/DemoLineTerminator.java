@@ -1,5 +1,14 @@
 import java.util.Scanner;
 
+/**
+ * Description
+ * This is for Demonstration Purpose
+ * If you have any confusion, please contact me
+ * yuhsong1@unimelb.edu.au
+ * yuhsong@student.unimelb.edu.au
+ *
+ * @author Yuhao Song
+ */
 public class DemoLineTerminator {
     public static void main(String[] args) {
         Scanner keyboard = new Scanner(System.in);

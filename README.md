@@ -11,10 +11,11 @@ Timetable (Join From Canvas):
 Structures:
   * Tutorial handout
   * Tutorial slides
-  * Exercise written by me (not official answer from the Uni)
+  * Solution written by me (not official answer from the Uni)
   * Demo code for important points
  
 Topics:
  * Lab1 Server Introduction
  * Lab2 Console I/O
  * Lab3 Flow of Control
+ * Lab4 Class

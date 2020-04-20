@@ -15,8 +15,8 @@ The material will be updated during the weekend after the tutorials
   
 | Lab | Topic                 | Date     |
 |-----|-----------------------|----------|
-| 1   | [Admin & Introduction](Lab1_W2)  | March 10 |
-| 2   | [Console I/O](Lab2_W3)  | March 17 |
-| 3   | [Flow of Control](Lab3_W4)  | March 31 |
+| 1   | [Admin & Introduction](Lab01)  | March 10 |
+| 2   | [Console I/O](Lab02)  | March 17 |
+| 3   | [Flow of Control](Lab03)  | March 31 |
 | 3   | [Project A](ProjA)  | March 31 |
 | 4   | Introduction of Class | April 21 |

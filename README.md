@@ -15,7 +15,7 @@ The material will be updated during the weekend after the tutorials
   
 | Lab | Topic                 | Date     |
 |-----|-----------------------|----------|
-| 1   | Admin & Introduction  |          |
+| 1   | Admin & Introduction  | March 10 |
 | 2   | Console I/O           | March 17 |
 | 3   | Flow of Control       | March 31 |
 | 4   | Introduction of Class | April 21 |

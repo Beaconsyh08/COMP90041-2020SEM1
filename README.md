@@ -23,5 +23,4 @@ The material will be updated during the weekend after the tutorials
 | 4   | [Class I](Lab04) | April 21 |
 | 5   | Class II | April 28 |
 | 6   | Array | May 05 |
-
 </center>

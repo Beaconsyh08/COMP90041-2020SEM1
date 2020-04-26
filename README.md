@@ -19,4 +19,4 @@ The material will be updated during the weekend after the tutorials
 | 2   | [Console I/O](Lab02)  | March 17 |
 | 3   | [Flow of Control](Lab03)  | March 31 |
 | 3   | [Project A](ProjA)  | March 31 |
-| 4   | Introduction of Class | April 21 |
+| 4   | [Class I](Lab04) | April 21 |

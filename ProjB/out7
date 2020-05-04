@@ -1,0 +1,72 @@
+Welcome to Nim
+
+$
+$
+$
+$
+$
+Initial stone count: 1
+Maximum stone removal: 1
+Player 1: George Washington
+Player 2: John Adams
+
+1 stones left: *
+George's turn - remove how many?
+
+Game Over
+John Adams wins!
+
+$
+Initial stone count: 1
+Maximum stone removal: 1
+Player 1: George Washington
+Player 2: John Adams
+
+1 stones left: *
+George's turn - remove how many?
+
+Game Over
+John Adams wins!
+
+$
+Initial stone count: 1
+Maximum stone removal: 1
+Player 1: John Adams
+Player 2: Thomas Jefferson
+
+1 stones left: *
+John's turn - remove how many?
+
+Game Over
+Thomas Jefferson wins!
+
+$
+Initial stone count: 1
+Maximum stone removal: 1
+Player 1: Thomas Jefferson
+Player 2: James Madison
+
+1 stones left: *
+Thomas's turn - remove how many?
+
+Game Over
+James Madison wins!
+
+$100% | 01 games | James Madison
+67%  | 03 games | John Adams
+50%  | 02 games | Thomas Jefferson
+0%   | 02 games | George Washington
+
+$0%   | 02 games | George Washington
+50%  | 02 games | Thomas Jefferson
+67%  | 03 games | John Adams
+100% | 01 games | James Madison
+
+$Are you sure you want to reset all player statistics? (y/n)
+
+$0%   | 00 games | George Washington
+0%   | 00 games | John Adams
+0%   | 00 games | James Madison
+0%   | 00 games | Thomas Jefferson
+
+$

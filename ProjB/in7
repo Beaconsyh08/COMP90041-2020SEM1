@@ -1,0 +1,18 @@
+addplayer george,Washington,George
+addplayer jadams,Adams,John
+addplayer tom,Jefferson,Thomas
+addplayer jmadison,Madison,James
+startgame 1,1,george,jadams
+1
+startgame 1,1,george,jadams
+1
+startgame 1,1,jadams,tom
+1
+startgame 1,1,tom,jmadison
+1
+rankings 
+rankings asc
+resetstats
+y
+rankings
+exit

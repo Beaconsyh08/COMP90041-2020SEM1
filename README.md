@@ -23,8 +23,8 @@ The material will be updated during the weekend after the tutorials
 | 4   | [Class I](Lab04) | April 21 |
 | 5   | [Class II](lab05) | April 28 |
 | 5   | [Project B](ProjB) | April 28 |
-| 6   | Array | May 05 |
-| 7   | TBC | May 12 |
-| 8   | TBC | May 19 |
-| 9   | TBC | May 26 |
-| 10  | TBC | Jun 02 |
+| 6   | Arrays | May 05 |
+| 7   | Inheritance and Abstract Classes | May 12 |
+| 8   | Interfaces and Exceptions | May 19 |
+| 9   | File I/O | May 26 |
+| 10  | Generics and ArrayLists | Jun 02 |

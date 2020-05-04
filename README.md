@@ -1,5 +1,5 @@
 # COMP90041_Tutorials
-This is the repository for the COMP90041 tutorials materials by Yuhao Song  
+This is the repository for the COMP90041 tutorials materials by **Yuhao Song**  
 You could star, fork or clone this repository  
 The material will be updated during the weekend after the tutorials  
 

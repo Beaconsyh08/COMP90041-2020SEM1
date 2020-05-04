@@ -25,6 +25,8 @@ The material will be updated during the weekend after the tutorials
 | 5   | [Project B](ProjB) | April 28 |
 | 6   | Arrays | May 05 |
 | 7   | Inheritance and Abstract Classes | May 12 |
+| 7   | Project C | May 12 |
 | 8   | Interfaces and Exceptions | May 19 |
 | 9   | File I/O | May 26 |
 | 10  | Generics and ArrayLists | Jun 02 |
+| 10  | Final Project | Jun 02 |

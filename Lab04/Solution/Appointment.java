@@ -1,3 +1,12 @@
+/**
+ * Description
+ * This is not the official sample solution from the University
+ * If you have any confusion, please contact me
+ * yuhsong1@unimelb.edu.au
+ * yuhsong@student.unimelb.edu.au
+ *
+ * @author Yuhao Song
+ */
 public class Appointment {
     private AppointmentTime startTime, endTime;
     private AppointmentDate date;

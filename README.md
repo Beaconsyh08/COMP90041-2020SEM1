@@ -21,9 +21,9 @@ The material will be updated during the weekend after the tutorials
 | 3   | [Flow of Control](Lab03)  | March 31 |
 | 3   | [Project A](ProjA)  | March 31 |
 | 4   | [Class I](Lab04) | April 21 |
-| 5   | [Class II](lab05) | April 28 |
+| 5   | [Class II](Lab05) | April 28 |
 | 5   | [Project B](ProjB) | April 28 |
-| 6   | Arrays | May 05 |
+| 6   | [Arrays](Lab06) | May 05 |
 | 7   | Inheritance and Abstract Classes | May 12 |
 | 7   | Project C | May 12 |
 | 8   | Interfaces and Exceptions | May 19 |

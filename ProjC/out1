@@ -1,0 +1,42 @@
+Welcome to Nim
+
+$Are you sure you want to remove all players? (y/n)
+
+$'createplayer' is not a valid command.
+
+$Incorrect number of arguments supplied to command.
+
+$
+$The player already exists.
+
+$Are you sure you want to remove all players? (y/n)
+
+$
+$
+$
+Initial stone count: 4
+Maximum stone removal: 2
+Player 1: George Washington
+Player 2: John Adams
+
+4 stones left: * * * *
+George's turn - remove how many?
+
+Invalid move. You must remove between 1 and 2 stones.
+
+4 stones left: * * * *
+George's turn - remove how many?
+
+3 stones left: * * *
+John's turn - remove how many?
+
+2 stones left: * *
+George's turn - remove how many?
+
+1 stones left: *
+John's turn - remove how many?
+
+Game Over
+George Washington wins!
+
+$

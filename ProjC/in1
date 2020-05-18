@@ -1,0 +1,17 @@
+removeplayer
+y
+createplayer lskywalker,Skywalker,Luke
+addplayer lskywalker
+addplayer lskywalker,Skywalker,Luke
+addplayer lskywalker,Skywalker,Luke
+removeplayer
+y
+addplayer george,Washington,George
+addplayer jadams,Adams,John
+startgame 4,2,george,jadams
+4
+1
+1
+1
+1
+exit

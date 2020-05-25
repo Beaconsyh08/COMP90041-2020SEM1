@@ -23,9 +23,9 @@ The material will be updated during the weekend after the tutorials
 | 5   | [Class II](Lab05) | April 28 |
 | 6   | [Arrays](Lab06) | May 05 |
 | 7   | [Inheritance](Lab07) | May 12 |
-| 8   | Polymorphism, Abstract Classes, Interfaces | May 19 |
-| 9   | Exceptions and File I/O | May 26 |
-| 10  | Generics and ArrayLists | Jun 02 |
+| 8   | [Polymorphism, Abstract Classes, Interfaces](Lab08) | May 19 |
+| 9   | [Exceptions](Lab09)  | May 26 |
+| 10  | File I/O and ArrayLists | Jun 02 |
 
 |Project| Topic                 | Date     |
 |:---:|:---------------------:|:--------:|

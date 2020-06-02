@@ -25,7 +25,7 @@ The material will be updated during the weekend after the tutorials
 | 7   | [Inheritance](Lab07) | May 12 |
 | 8   | [Polymorphism, Abstract Classes, Interfaces](Lab08) | May 19 |
 | 9   | [Exceptions](Lab09) | May 26 |
-| 10  | [Final Knowledge] | Jun 02 |
+| 10  | [Knowledge You Need for Final Project] | Jun 02 |
 
 |Project| Topic                 | Date     |
 |:---:|:---------------------:|:--------:|

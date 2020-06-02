@@ -3,6 +3,13 @@ This is the repository for the COMP90041 tutorials materials by **Yuhao Song**
 You could star, fork or clone this repository  
 The material will be updated during the weekend after the tutorials  
 
+**End of Sem Survey**
+Feedback is important for us, please help use improve!  
+If you havn't done it yet, please take 5mins to finish it :)
+
+Surver: https://forms.gle/gUHDjYAKUTbV547m8
+
+
 **Structures**
   * Tutorial handout
   * Tutorial slides

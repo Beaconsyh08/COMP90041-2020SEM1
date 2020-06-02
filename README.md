@@ -32,4 +32,4 @@ The material will be updated during the weekend after the tutorials
 | 1   |  [Project A](ProjA)   | March 31 |
 | 2   |  [Project B](ProjB)   | April 28 |
 | 3   |  [Project C](ProjC)  | May 19 |
-| 4   |  Final Project  | TBA |
+| 4   |  [Final Project]  | Jun 2 |

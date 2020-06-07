@@ -32,11 +32,11 @@ Surver: https://forms.gle/gUHDjYAKUTbV547m8
 | 7   | [Inheritance](Lab07) | May 12 |
 | 8   | [Polymorphism, Abstract Classes, Interfaces](Lab08) | May 19 |
 | 9   | [Exceptions](Lab09) | May 26 |
-| 10  | [Knowledge You Need for Final Project] | Jun 02 |
+| 10  | [Knowledge You Need for Final Project](Lab10) | Jun 02 |
 
 |Project| Topic                 | Date     |
 |:---:|:---------------------:|:--------:|
 | 1   |  [Project A](ProjA)   | March 31 |
 | 2   |  [Project B](ProjB)   | April 28 |
 | 3   |  [Project C](ProjC)  | May 19 |
-| 4   |  [Final Project]  | Jun 2 |
+| 4   |  [Final Project](Lab10)  | Jun 2 |

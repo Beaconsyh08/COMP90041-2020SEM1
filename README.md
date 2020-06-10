@@ -1,5 +1,5 @@
 # COMP90041_Tutorials
-This is the tutorial materials repository for [Programming and Software Development (COMP90041)](https://handbook.unimelb.edu.au/2020/subjects/comp90041) at The University of Melbourne
+The tutorial-material repository is prepared for [Programming and Software Development (COMP90041)](https://handbook.unimelb.edu.au/2020/subjects/comp90041) at The University of Melbourne
 By **@Yuhao Song**  
  
 

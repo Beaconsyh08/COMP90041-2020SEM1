@@ -3,7 +3,7 @@ This is the repository for the COMP90041 tutorials materials by **@Yuhao Song**
 Feel free to star, fork or clone this repository  
 The material will be updated during the weekend after the tutorials  
 
-## **IMPORTANT NOTE**  
+## **IMPORTANT NOTES**  
 ### **Recording**
 Due to the large file size of the [**recordings**](https://drive.google.com/drive/folders/1QZcjFyvc0T7y5VDGqJf3IY8xilRa5uXX?usp=sharing), I uploaded them through google drive
 Notice: You need to log in with your **Unimelb** Account  

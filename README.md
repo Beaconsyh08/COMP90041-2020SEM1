@@ -1,13 +1,13 @@
 # COMP90041_Tutorials
-This is the repository for the COMP90041 tutorials materials by **@Yuhao Song**  
-Feel free to star, fork or clone this repository  
-The material will be updated during the weekend after the tutorials  
+This is the tutorial materials repository for [Programming and Software Development (COMP90041)](https://handbook.unimelb.edu.au/2020/subjects/comp90041) at The University of Melbourne
+By **@Yuhao Song**  
+ 
 
 ## **IMPORTANT NOTES**  
 ### **Recording**
-Due to the large file size of the [**recordings**](https://drive.google.com/drive/folders/1QZcjFyvc0T7y5VDGqJf3IY8xilRa5uXX?usp=sharing), I uploaded them through google drive
+Google Drive Link: [**recordings**](https://drive.google.com/drive/folders/1QZcjFyvc0T7y5VDGqJf3IY8xilRa5uXX?usp=sharing)
 Notice: You need to log in with your **Unimelb** Account  
-Moreover, the lab2 and lab4 recording are missing, if you need it, please email me and I will re-record it otherwise I will do that during winter break, before August.
+Moreover, the lab2 and lab4 recording are missing, please email me if you need them and I will do the re-record, otherwise the re-recording will be made available by August.
 
 ### **End of Sem Survey**  
 Feedback is important for us, please help use improve!  

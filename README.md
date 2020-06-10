@@ -3,9 +3,9 @@ This is the repository for the COMP90041 tutorials materials by **Yuhao Song**
 You could star, fork or clone this repository  
 The material will be updated during the weekend after the tutorials  
 
-##########################    
-##### **IMPORTANT NOTE** #####  
-##########################   
+########################  
+#####**IMPORTANT NOTE**#####  
+########################   
 Due to the large file size of the recordings, they are hard to share via GitHub  
 Please find the recording by click [here](https://drive.google.com/drive/folders/1IR5Je35EzVVrRVypfJ8KoWjmCtcxglRS?usp=sharing)
 

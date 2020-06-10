@@ -7,7 +7,8 @@ The material will be updated during the weekend after the tutorials
 #####**IMPORTANT NOTE**#####  
 ########################   
 Due to the large file size of the recordings  
-Please find the recordings [**here**](https://drive.google.com/drive/folders/1IR5Je35EzVVrRVypfJ8KoWjmCtcxglRS?usp=sharing)  
+Please find the recordings [**here**](https://drive.google.com/drive/folders/1QZcjFyvc0T7y5VDGqJf3IY8xilRa5uXX?usp=sharing)  
+Notice: You need to log in with your **Unimelb** Account  
 
 **End of Sem Survey**  
 Feedback is important for us, please help use improve!  

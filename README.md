@@ -42,4 +42,4 @@ If you havn't done it yet, please take 5mins to finish the [**survey**](https://
 | 1   |  [Project A](ProjA)   | March 31 |
 | 2   |  [Project B](ProjB)   | April 28 |
 | 3   |  [Project C](ProjC)  | May 19 |
-| 4   |  [Final Project](Lab10)  | Jun 2 |
+| 4   |  [Final Project](Lab10)  | Jun 02 |

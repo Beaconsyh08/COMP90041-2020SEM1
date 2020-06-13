@@ -5,7 +5,7 @@ By **@Yuhao Song**
 
 ## **IMPORTANT NOTES**  
 ### **Recording**
-**Google Drive Link:** [**recordings**](https://drive.google.com/drive/folders/1QZcjFyvc0T7y5VDGqJf3IY8xilRa5uXX?usp=sharing)
+**Google Drive Link:** [**recordings**](https://drive.google.com/drive/folders/1QZcjFyvc0T7y5VDGqJf3IY8xilRa5uXX?usp=sharing)  
 **Notice**: You need to log in with your **Unimelb** Account  
 Moreover, the lab2 and lab4 recording are missing, please email me if you need them and I will do the re-record, otherwise the re-recording will be made available by August.
 

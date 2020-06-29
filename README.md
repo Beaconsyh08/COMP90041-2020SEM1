@@ -1,12 +1,12 @@
 # COMP90041_Tutorials
-The tutorial-material repository is prepared for [Programming and Software Development (COMP90041)](https://handbook.unimelb.edu.au/2020/subjects/comp90041) at [The University of Melbourne](https://www.unimelb.edu.au/)
+The tutorial-material repository is prepared for [Programming and Software Development COMP90041](https://handbook.unimelb.edu.au/2020/subjects/comp90041) at [The University of Melbourne](https://www.unimelb.edu.au/)
 By **@Yuhao Song**  
  
 
 ## **IMPORTANT NOTES**  
 ### **Recording**
-Google Drive Link: [**recordings**](https://drive.google.com/drive/folders/1QZcjFyvc0T7y5VDGqJf3IY8xilRa5uXX?usp=sharing)
-Notice: You need to log in with your **Unimelb** Account  
+**Google Drive Link:** [**recordings**](https://drive.google.com/drive/folders/1QZcjFyvc0T7y5VDGqJf3IY8xilRa5uXX?usp=sharing)  
+**Notice**: You need to log in with your **Unimelb** Account  
 Moreover, the lab2 and lab4 recording are missing, please email me if you need them and I will do the re-record, otherwise the re-recording will be made available by August.
 
 ### **End of Sem Survey**  
@@ -42,4 +42,4 @@ If you havn't done it yet, please take 5mins to finish the [**survey**](https://
 | 1   |  [Project A](ProjA)   | March 31 |
 | 2   |  [Project B](ProjB)   | April 28 |
 | 3   |  [Project C](ProjC)  | May 19 |
-| 4   |  [Final Project](Lab10)  | Jun 2 |
+| 4   |  [Final Project](Lab10)  | Jun 02 |

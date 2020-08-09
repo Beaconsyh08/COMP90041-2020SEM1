@@ -26,7 +26,7 @@ If you havn't done it yet, please take 5mins to finish the [**survey**](https://
 
 | Lab | Topic                 | Date     |
 |:---:|:---------------------:|:--------:|
-| 1   | [Admin & Introduction](Lab01)  | March 10 |
+| 1   | [Admin & Introduction](https://github.com/Beaconsyh08/COMP90041-2020SEM1/tree/master/Lab01/Handout)  | March 10 |
 | 2   | [Console I/O](Lab02)  | March 17 |
 | 3   | [Flow of Control](Lab03)  | March 31 |
 | 4   | [Class I](Lab04) | April 21 |
